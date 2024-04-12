@@ -1,8 +1,8 @@
-
+import 'bootstrap-icons/font/bootstrap-icons.css';
 import './App.css';
 import React from 'react';
 import './App.css';
-import Main from './components/Main';
+import Main from './pages/Main';
 
 function App() {
   return <Main/>
