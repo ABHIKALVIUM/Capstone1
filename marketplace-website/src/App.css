@@ -5,8 +5,8 @@
   box-sizing: border-box;
 }
 :root{
-  --primary: #000509;
-  --second:#120101;
+  --primary: white;
+  --second:white;
   --bgColor:black;
 }
 h1,
